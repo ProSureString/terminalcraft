@@ -1,3 +1,0 @@
-"""
-Output formatters for Peeky
-""" 

@@ -1,7 +1,0 @@
-Horizontal {
-    height: auto;
-}
-
-VerticalScroll {
-    height: auto;
-}

@@ -1,2 +1,0 @@
-textual>=0.47.1
-requests==2.32.2

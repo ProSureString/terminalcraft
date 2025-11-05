@@ -1,4 +1,0 @@
-{
-  "setup": "pip3 install projectmaker",
-  "run": "sh"
-}

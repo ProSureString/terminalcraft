@@ -1,3 +1,0 @@
-textual>=0.44.0
-cryptography>=42.0.0
-rich>=13.0.0

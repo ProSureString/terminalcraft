@@ -1,3 +1,0 @@
-dotenv
-groq
-notion-client
