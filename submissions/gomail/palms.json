@@ -1,4 +1,0 @@
-{
-  "setup": "go build .",
-  "run": "./gomail"
-}

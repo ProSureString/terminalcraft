@@ -1,4 +1,0 @@
-{
-  "setup": "pip install .",
-  "run": "sh"
-}

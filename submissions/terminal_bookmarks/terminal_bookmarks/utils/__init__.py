@@ -1,1 +1,0 @@
-"""Utility functions for Terminal Bookmarks.""" 

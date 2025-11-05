@@ -1,4 +1,0 @@
-{
-  "setup": "cargo install shelfit",
-  "run": "sh"
-}

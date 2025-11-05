@@ -1,4 +1,0 @@
-{
-  "setup": "chmod +x ltochanger && chmod +x ltoTarTools",
-  "run": "sh"
-}

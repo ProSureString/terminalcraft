@@ -1,4 +1,0 @@
-{
-  "setup": "curl --proto '=https' --tlsv1.2 -sSf -L https://install.determinate.systems/nix | sh -s -- install",
-  "run": "nix run github:dj-laser/nix-sweeper"
-}
