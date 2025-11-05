@@ -420,7 +420,7 @@ export default function Gallery() {
       const plainDesc = searchableDescs.get(project.id) ?? markdownToPlainText(project.description);
 
       return plainDesc.length > maxLength
-        ? `${plainDescription.slice(0, maxLength)}...`
+        ? `${plainDesc.slice(0, maxLength)}...`
         : plainDesc;
     },
     [searchableDescs]
